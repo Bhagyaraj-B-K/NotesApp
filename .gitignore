@@ -1,0 +1,66 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider and ReSharper files
+.idea/
+*.DotSettings.user
+
+# Visual Studio files
+.vs/
+*.vscode/
+
+# Auto-generated files
+Generated_Code/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Package directories
+*.nuget/
+packages/
+*.nupkg
+
+# Dependency manager files
+project.lock.json
+project.fragment.lock.json
+
+# Build results
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Test results
+TestResults/
+
+# Publish output
+publish/
+
+# Crash dumps and debug logs
+*.stackdump
+*.dump
+*.core
+
+# Configuration files
+appsettings.*.json
+secrets.json
